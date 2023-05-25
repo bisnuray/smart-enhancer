@@ -31,7 +31,7 @@ git clone https://github.com/bisnuray/smart-enhancer
 2. Change the working directory:
 
 ```
-cd smart-enhancer.py
+cd smart-enhancer
 ````
 
 3. Update the `smart-enhancer.py` file with your [Telegram bot token] and your [Remini API]
