@@ -1,7 +1,6 @@
 """
-Author: Bisnu Ray , Nafis Muhtadi
+Author: Bisnu Ray
 GitHub: https://github.com/bisnuray/
-GitHub: https://github.com/NafisMuhtadi
 Description: A Telegram bot to enhance photos using the Remini API.
 """
 
